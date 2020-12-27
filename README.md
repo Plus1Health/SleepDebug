@@ -14,7 +14,7 @@
 ## The Data Specification
 ### Sampling Rate: 200Hz
 ### Heart Rate Range: 30 ~ 240 bpm
-### Respiratory Rate: 9 ~ 30 bpm
+### Respiratory Rate Range: 9 ~ 30 bpm
 
 # How to use?
 SleepDebug is a part of Plus1Health Sleep Develop Kit.
