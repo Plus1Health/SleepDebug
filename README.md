@@ -29,5 +29,5 @@ Plus1Health Sleep Develop Kit includes:
 Send a email Subjecting "Buy Plus1Health Sleep Develop Kit" and Body only including your postal address to pc1288 @ gmail.com, and pay $320.00 dollar to the paypal (return the paypal via the email). 
 Usually, we may deliver the goods within one week after paid, and the receiving date will vary according to your region.
 
-# Who is We?
+# Who We Are?
 Plus1Health team is a professional developer related with health devices, The core members of the team have more than 10 years of experience in medical device.
