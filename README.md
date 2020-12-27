@@ -1,5 +1,7 @@
 # SleepDebug
-> Sleep Debug is an debug tool for studying or develop BCG applications.. 
+> Sleep Debug is an debug tool for studying or develop BCG applications.
+
+![](https://github.com/Plus1Health/SleepDebug/blob/main/SleepDebug.gif)
 
 # What Is BCG ?
 > Ballistocardiogram (BCG) is a method of recording the vibrations of the body caused by cardiac activity. Detection of real-time heart rate with BCG signal can closely observe changes in the heart, detect abnormalities in the heart in time, and minimize the risk of morbidity.
