@@ -9,8 +9,8 @@
 # What Is SleepDebug?
 > SleepDebug is a debug tool for studing or devolep BCG applications. Anybody can download the app from the github.
 
-# How To Work
-> 
+# How To Work?
+> Lie on top of the belt, and attche to the computer's USB.
 
 ## The features
 > 1. Record the Ballistocardiogram (BCG) data to file.
