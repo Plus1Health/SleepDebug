@@ -7,6 +7,7 @@
 # What Is SleepDebug?
 > SleepDebug is a debug tool for studing or devolep BCG applications. Anybody can download the app from the github.
 
+
 ## The features
 > 1. Record the Ballistocardiogram (BCG) data to file.
 > 2. Record the heart rate, respiratory rate, sleep status in the window text box.
@@ -22,7 +23,7 @@ Plus1Health Sleep Develop Kit includes:
 1. SleepDebug tool
 2. The hardware devices (include a circuit board and a sensor)
 
-# How Get The Hardware Devices?
+# How To Get The Hardware?
 Send a email Subjecting "Buy Plus1Health Sleep Develop Kit" and Body only including your postal address to pc1288 @ gmail.com, and pay $320.00 dollar to the paypal (return the paypal via the email). 
 Usually, we may deliver the goods within one week after paid, and the receiving date will vary according to your region.
 
