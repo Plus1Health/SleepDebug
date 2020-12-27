@@ -23,7 +23,7 @@ Plus1Health Sleep Develop Kit includes:
 2. The hardware devices (include a circuit board and a sensor)
 
 # How Get The Hardware Devices?
-Send a email Subjecting "Buy Plus1Health Sleep Develop Kit" and Body only including your postal address to pc1288@gmail.com, and pay $320.00 dollar to the paypal (return the paypal via the email). 
+Send a email Subjecting "Buy Plus1Health Sleep Develop Kit" and Body only including your postal address to pc1288 @ gmail.com, and pay $320.00 dollar to the paypal (return the paypal via the email). 
 Usually, we may deliver the goods within one week after paid, and the receiving date will vary according to your region.
 
 # Who is We?
