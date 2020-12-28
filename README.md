@@ -12,7 +12,7 @@
 # How To Work?
 > Lie on top of the belt, and attche to the computer's USB.
 
-## The features
+## The Features
 > 1. Record the Ballistocardiogram (BCG) data to file.
 > 2. Record the heart rate, respiratory rate, sleep status in the window text box.
 
