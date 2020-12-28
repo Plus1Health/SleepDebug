@@ -34,7 +34,9 @@ Usually, we may deliver the goods within one week after paid, and the receiving 
 # Who We Are?
 Plus1Health team is a professional developer related with health devices, The core members of the team have more than 10 years of experience in medical device.
 
-#
+
+![BCG Wave](https://github.com/Plus1Health/SleepDebug/blob/main/bcg_wave_data_1.png)
+
 #
 
 # SleepDebug 开发套件
