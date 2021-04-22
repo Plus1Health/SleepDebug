@@ -28,6 +28,8 @@ Plus1Health Sleep Develop Kit includes:
 2. The hardware devices (include a circuit board and a sensor)
 
 # How To Get The Hardware?
+http://shop.plus1health.com/product/smart-sleep-tracking-develop-kit/ 
+
 Send a email Subjecting "Buy Plus1Health Sleep Develop Kit" and Body only including your postal address to pc1288 @ gmail.com, and pay to the paypal (return the paypal via the email). 
 Usually, we may deliver the goods within one week after paid, and the receiving date will vary according to your region.
 
